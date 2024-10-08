@@ -1,0 +1,17 @@
+{
+  "name": "movies-api",
+  "version": "1.0.0",
+  "description": "Simple api for getting popular movies",
+  "main": "server.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Gustavsson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0"
+  }
+}
