@@ -1,0 +1,7 @@
+/Users/michaelgustavsson/Documents/Development/Courses/Docker/Lektion-01/simple-mvc/bin/Release/net8.0/publish/simple-mvc
+/Users/michaelgustavsson/Documents/Development/Courses/Docker/Lektion-01/simple-mvc/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/michaelgustavsson/Documents/Development/Courses/Docker/Lektion-01/simple-mvc/bin/Release/net8.0/publish/appsettings.json
+/Users/michaelgustavsson/Documents/Development/Courses/Docker/Lektion-01/simple-mvc/bin/Release/net8.0/publish/simple-mvc.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Docker/Lektion-01/simple-mvc/bin/Release/net8.0/publish/simple-mvc.deps.json
+/Users/michaelgustavsson/Documents/Development/Courses/Docker/Lektion-01/simple-mvc/bin/Release/net8.0/publish/simple-mvc.runtimeconfig.json
+/Users/michaelgustavsson/Documents/Development/Courses/Docker/Lektion-01/simple-mvc/bin/Release/net8.0/publish/simple-mvc.pdb
