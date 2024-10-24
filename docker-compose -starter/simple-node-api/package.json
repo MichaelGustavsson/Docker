@@ -1,0 +1,20 @@
+{
+  "name": "simple-node-api",
+  "version": "1.0.0",
+  "description": "Simple node api that communicates with a containerized mongo database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "keywords": [],
+  "author": "Michael Gustavsson",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.7.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0"
+  }
+}
